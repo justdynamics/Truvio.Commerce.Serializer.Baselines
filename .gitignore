@@ -1,0 +1,18 @@
+# NOTE: this repo deliberately tracks `packages/` — it holds the baseline content.
+# Do not add a blanket `packages/` ignore rule here.
+
+# Large binary source artifacts (provided out-of-band, see docs/host-setup.md)
+tools/*.zip
+tools/*.bacpac
+
+# E2E / smoke run output
+tools/e2e/runs/
+tools/**/runs/
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.user
