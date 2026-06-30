@@ -1,0 +1,21 @@
+﻿"paragraphUniqueId": 4550bd41-00cc-4401-8ce4-ea9c9f848488
+"sourceParagraphId": 266
+"sortOrder": 5
+"itemType": "Swift-v2_OffCanvasNavigation"
+"header": "Off-Canvas navigation"
+"template": "OffCanvas.cshtml"
+"colorSchemeId": ""
+"moduleSystemName": ""
+"moduleSettings": ""
+"fields":
+  "GlobalRecordPageGuid": "29698ead-ff6f-4736-ad4d-5e104ad7ecee"
+  "Icon": "/Files/Images/Icons/bars-staggered.svg"
+  "Id": "1"
+  "ItemInstanceType": ""
+  "MainNavigationRoot": "Default.aspx?ID=50"
+  "OffCanvasDirection": "start"
+  "SecondaryNavigationRoot": "Default.aspx?ID=29"
+  "Sort": 0
+  "Title": ""
+  "UtilityNavigationRoot": ""
+"columnId": 1

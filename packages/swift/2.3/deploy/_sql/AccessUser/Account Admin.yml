@@ -1,0 +1,104 @@
+﻿"AccessUserId": 1270
+"AccessUserParentId": 0
+"AccessUserUserName": "Account Admin"
+"AccessUserPassword": 
+"AccessUserName": "Account Admin"
+"AccessUserDepartment": 
+"AccessUserEmail": 
+"AccessUserPhone": 
+"AccessUserFax": 
+"AccessUserGroups": 
+"AccessUserType": 2
+"AccessUserValidFrom": 1900-01-01T00:00:00.0000000
+"AccessUserValidTo": 2999-12-31T00:00:00.0000000
+"AccessUserPages": 
+"AccessUserAreas": 
+"AccessUserSettings": 
+"AccessUserModules": 
+"AccessUserInformation": 
+"AccessUserMyFolder": 
+"AccessUserAddress": 
+"AccessUserAddress2": 
+"AccessUserZip": 
+"AccessUserCity": 
+"AccessUserCountry": 
+"AccessUserJobTitle": 
+"AccessUserCompany": 
+"AccessUserPhonePriv": 
+"AccessUserMobile": 
+"AccessUserCustomerNumber": 
+"AccessUserRedirectOnLogin": 
+"AccessUserCurrencyCharacter": 
+"AccessUserRead": false
+"AccessUserAdsiMap": 
+"AccessUserPasswordDate": 
+"AccessUserLastName": 
+"AccessUserMiddleName": 
+"AccessUserActive": true
+"AccessUserImage": 
+"AccessUserBusiness": 
+"AccessUserInitials": 
+"AccessUserComment": 
+"AccessUserLevel": 0
+"AccessUserInheritAddress": true
+"AccessUserWeb": 
+"AccessUserSort": 0
+"AccessUserStatus": 0
+"AccessUserStatusBegin": 
+"AccessUserStatusEnd": 
+"AccessUserStatusComment": 
+"AccessUserEditorConfigurationId": 
+"AccessUserHideStat": false
+"AccessUserCartId": 
+"AccessUserAllowBackend": 
+"AccessUserApprovalKey": 
+"AccessUserShopId": 
+"AccessUserExternalId": 
+"AccessUserSortXML": 
+"AccessUserGeoLocationLat": 
+"AccessUserGeoLocationLng": 
+"AccessUserGeoLocationIsCustom": 
+"AccessUserGeoLocationImage": 
+"AccessUserGeoLocationHash": 
+"AccessUserNewsletterAllowed": false
+"AccessUserCreatedOn": 
+"AccessUserUpdatedOn": 
+"AccessUserCreatedBy": 
+"AccessUserUpdatedBy": 
+"AccessUserEmailPermissionGivenOn": 
+"AccessUserEmailPermissionUpdatedOn": 
+"AccessUserState": 
+"AccessUserVatRegNumber": 
+"AccessUserDisableLivePrices": 
+"AccessUserLastLoginOn": 
+"AccessUserAdministratorInGroups": 
+"AccessUserTitle": 
+"AccessUserFirstName": 
+"AccessUserHouseNumber": 
+"AccessUserLastOrderDate": 
+"AccessUserPasswordRecoveryToken": 
+"AccessUserPasswordRecoveryTokenExpirationTime": 
+"AccessUserGroupSmartSearch": 
+"AccessUserGroupSmartSearchLastCalculatedTime": 
+"AccessUserExported": 
+"AccessUserItemType": 
+"AccessUserItemId": 
+"AccessUserDefaultUserItemType": 
+"AccessUserStockLocationID": 
+"AccessUserCountryCode": 
+"AccessUserPointBalance": 
+"AccessUserAddressTitle": 
+"AccessUserUserAndGroupType": 
+"AccessUserInformationSent": 
+"AccessUserReverseChargeForVat": false
+"AccessUserProfileCreatedDate": 
+"DefaultPermission": 
+"AccessUserTreeSection": 
+"AccessUserUniqueId": 3ed0b379-fc1b-4a3a-bd67-93244f529e04
+"AccessUserShippingCode": 
+"AccessUserShippingAgentCode": 
+"AccessUserShippingAgentServiceCode": 
+"AccessUserLoginType": 
+"AccessUserInvitationSent": 
+"AccessUserDisableLiveDiscounts": 
+"AccessUserIsServiceAccount": false

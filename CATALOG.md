@@ -1,4 +1,4 @@
-# Catalog
+﻿# Catalog
 
 Every published baseline, its tested platform version, and its status. Status
 values: **Stable** (passed the clean-room round-trip gate, suitable for use),
@@ -8,6 +8,8 @@ values: **Stable** (passed the clean-room round-trip gate, suitable for use),
 | --- | --- | --- | --- | --- | --- |
 | [`swift/2.2`](packages/swift/2.2/) | 2.2.0 | Swift storefront (B2C/B2B commerce) | DW 10.26.7 | Stable | 17 Deploy + 18 Seed predicates; English + Dutch language layer. Round-trip verified (HTTP 200, zero escalations, page parity, frontend all-2xx). See [BASELINE](packages/swift/2.2/BASELINE.md). |
 | [`digital-asset-portal/1.0`](packages/digital-asset-portal/1.0/) | 1.0.0 | Digital Asset Portal | DW 10.26.7 | Beta | Portal area (area 26) captured; deploys as an add-on to `swift/2.2`. Needs the Swift-v2 design (incl. `Swift-v2_VerticalNavigation` item type) on the target. See [BASELINE](packages/digital-asset-portal/1.0/BASELINE.md). |
+
+| [`swift/2.3`](packages/swift/2.3/) | 2.3.0 | Swift storefront (B2C/B2B commerce) | DW 10.26.9 | Stable | 18 Deploy + 19 Seed predicates; English + Dutch; adds Customer Center user-group predicate + contract-pricing seed; PASS 3/3 across Swift 2.3.0/2.2.0/2.1.0. See [BASELINE](packages/swift/2.3/BASELINE.md). |
 
 ## Release tags
 
