@@ -1,4 +1,4 @@
-# Compatibility
+﻿# Compatibility
 
 A baseline is a snapshot of a database at a specific DW platform version. The
 YAML carries column values for the tables and item types as they existed in that
@@ -10,6 +10,7 @@ main source of trouble, because the platform's schema can differ.
 | Package | Baseline version | Captured & verified against | Engine version used |
 | --- | --- | --- | --- |
 | `swift` | 2.2.0 | DW 10.26.7 | Truvio.Commerce.Serializer 0.6.x |
+| `swift` | 2.3.0 | DW 10.26.9 | Truvio.Commerce.Serializer 0.6.8-beta |
 
 Each package's `BASELINE.md` repeats its tested platform version in its header.
 Treat that as the supported target.

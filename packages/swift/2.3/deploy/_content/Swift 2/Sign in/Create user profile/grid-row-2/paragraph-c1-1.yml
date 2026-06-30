@@ -1,0 +1,29 @@
+﻿"paragraphUniqueId": 30b6a0c6-782e-487e-a085-3fa7ef6b2b61
+"sourceParagraphId": 82
+"sortOrder": 1
+"itemType": "Swift-v2_App"
+"header": "Create Profile"
+"template": ""
+"colorSchemeId": ""
+"moduleSystemName": "UserCreate"
+"moduleSettings": |-
+  <?xml version="1.0" encoding="utf-8"?>
+  <Settings>
+    <Source>None</Source>
+    <AddUserToGroupBasedOnCustomerNumber>0</AddUserToGroupBasedOnCustomerNumber>
+    <CreateUserTemplate>UserCreate_Extended.cshtml</CreateUserTemplate>
+    <UserGroups>1325</UserGroups>
+    <UserSelectableGroups></UserSelectableGroups>
+    <EmailTemplate>UserCreateEmailConfirmation.cshtml</EmailTemplate>
+    <RedirectAfterSubmission>Default.aspx?Id=62</RedirectAfterSubmission>
+    <RedirectAfterApproval>Default.aspx?Id=63</RedirectAfterApproval>
+    <LoginPageId>Default.aspx?Id=65</LoginPageId>
+    <CreatePasswordPageId>Default.aspx?Id=64</CreatePasswordPageId>
+  </Settings>
+"fields":
+  "GlobalRecordPageGuid": "20b868eb-f125-455a-8693-734de4abe17d"
+  "Id": "24"
+  "ItemInstanceType": ""
+  "Sort": 0
+  "Title": "Create Profile"
+"columnId": 1
